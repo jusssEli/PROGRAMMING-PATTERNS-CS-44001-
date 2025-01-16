@@ -34,7 +34,7 @@ Lab6:
 DESIGN PATTERNS
 
 Lab8: 
-      Part 1: Implements logging into a file using Singleton design pattern
+      Part 1: Implements inserting text into a file using Singleton design pattern
       Part 2: Add a game of Dice where two players try to get the higher score by rolling five dice up to three times. A single dice roll should be a random number       from 1-6. Thus, the minimum score is 5 and the maximum is 30. The first player is the computer. The computer randomly selects whether to roll again or pass         and keep the score. The second player is human. The program should print the round number, the outcome of the round (for both human and computer) and ask           whether the human wants to roll again or pass. The game ends either after three moves (rounds) or when both players decide to pass and keep the score.
       
 Lab9:
